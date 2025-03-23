@@ -2,6 +2,11 @@
 
 APD - Homework 1b - Concurrent Access in Databases
 
+    Implementation can be found here: /main/java/org/apd/executor/
+
+    How to test: From  IntelliJ IDE run class ExecutorTests
+    Alternative using Docker: run script ./run with docker.sh for Linux/OSX or script ./run with docker.bat for Windows
+
 Local test: 18/18 passed
 
   To complete this assignment, I started by creating my own ThreadPool, which takes the number of threads
